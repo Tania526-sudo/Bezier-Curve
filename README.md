@@ -1,9 +1,9 @@
 # Bezier Curve Lab (2nd Order) – PyQt5 + 3D
 
 This project implements a Bezier curve simulation system using:
-- ✅ PyQt5 GUI for dynamic visualization and Euclidean transformations
-- ✅ Interactive 3D view using pythreejs
-- ✅ Full academic report included (Ukrainian)
+- PyQt5 GUI for dynamic visualization and Euclidean transformations
+- Interactive 3D view using pythreejs
+- Full academic report included (Ukrainian)
 
 ## Features
 
@@ -18,7 +18,7 @@ This project implements a Bezier curve simulation system using:
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/bezier-lab.git
+git clone https://github.com/Tania526-sudo/Bezier-Curve.git
 cd bezier-lab
 pip install -r requirements.txt
 python src/bezier_pyqt.py
